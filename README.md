@@ -13,15 +13,20 @@ https://tools.qsnctf.com/
 [ProbiusOfficial/Awsome-Sec.CTF-Videomaker: 【Hello CTF】收录国内网络安全以及CTF领域的优秀视频作者](https://github.com/ProbiusOfficial/Awsome-Sec.CTF-Videomaker)
 
 **xiaodisec**
+
 [【小迪安全】红蓝对抗 | 网络攻防 | V2022全栈培训_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pQ4y1s7kH/)
 https://www.bilibili.com/video/BV1JZ4y1c7ro/
 
 **红队笔记**
+
 [红队笔记的个人空间-红队笔记个人主页-哔哩哔哩视频](https://space.bilibili.com/491748397)
 
 **n1ar4**
+
 https://space.bilibili.com/1106751850/dynamic
+
 [n1ar4：B站最全的Java安全学习路线_2023-01-05 bilibili](https://www.bilibili.com/video/BV1Sv4y1i7jf/)
+
 [n1ar4：一个安全开发应届生的2022年总结 2023-01-18_bilibili](https://www.bilibili.com/video/BV1Nd4y1579s/)
 
 
@@ -30,17 +35,18 @@ https://space.bilibili.com/1106751850/dynamic
 
 ## 博客公众号等
 
-[icepeak](https://icepeak.icu/)
 [phith0n首页 | 离别歌](https://www.leavesongs.com/)
 
-公众号：黑伞安全等
+[icepeak](https://icepeak.icu/)
 
+公众号：黑伞安全等
 
 ## 社区论坛
 
 [HackerOne](https://hackerone.com/hacktivity)
 
 [博客 - CT Stack 安全社区 长亭](https://stack.chaitin.com/techblog/index)
+
 [xray - CT Stack 安全社区 长亭](https://stack.chaitin.com/tool/detail/1)
 
 [CTTalk 长亭合作伙伴技术社区](https://bbs.chaitin.cn/)
@@ -82,7 +88,9 @@ https://space.bilibili.com/1106751850/dynamic
 [简介 - CTF Wiki](https://ctf-wiki.org/)
 
 探姬
-https://github.com/ProbiusOfficial/CTF-QuickStart/接入CDN，链接变更为：https://ctf.probius.xyz/
+https://github.com/ProbiusOfficial/CTF-QuickStart/
+接入CDN，链接变更为：
+https://ctf.probius.xyz/
 
 
 
