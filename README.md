@@ -15,6 +15,7 @@ https://tools.qsnctf.com/
 **xiaodisec**
 
 [【小迪安全】红蓝对抗 | 网络攻防 | V2022全栈培训_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pQ4y1s7kH/)
+
 https://www.bilibili.com/video/BV1JZ4y1c7ro/
 
 **红队笔记**
