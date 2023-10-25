@@ -7,19 +7,20 @@ https://tools.qsnctf.com/
 ## 视频bilibili-up
 [ProbiusOfficial/Awsome-Sec.CTF-Videomaker: 【Hello CTF】收录国内网络安全以及CTF领域的优秀视频作者](https://github.com/ProbiusOfficial/Awsome-Sec.CTF-Videomaker)
 
-**xiaodisec**  
+- xiaodisec  
 [【小迪安全】红蓝对抗 | 网络攻防 | V2022全栈培训_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pQ4y1s7kH/)  
 https://www.bilibili.com/video/BV1JZ4y1c7ro/  
 
-**红队笔记**  
+- 红队笔记  
 [红队笔记的个人空间-红队笔记个人主页-哔哩哔哩视频](https://space.bilibili.com/491748397)
 
-**n1ar4**  
+- n1ar4  
 https://space.bilibili.com/1106751850/dynamic  
 [n1ar4：B站最全的Java安全学习路线_2023-01-05 bilibili](https://www.bilibili.com/video/BV1Sv4y1i7jf/)  
 [n1ar4：一个安全开发应届生的2022年总结 2023-01-18_bilibili](https://www.bilibili.com/video/BV1Nd4y1579s/)  
 
 ## 博客公众号等
+
 - phith0n  
 https://www.leavesongs.com/
 
@@ -40,7 +41,7 @@ https://github.com/sule01u
 
 - l3m0n：www.cnblogs.com/iamstudy
 
-- Y4tacker java安全相关
+- Y4tacker java安全相关  
 blog.csdn.net/solitudi  
 https://github.com/Y4tacker/JavaSec  
 https://y4tacker.github.io/
@@ -51,6 +52,7 @@ https://y4tacker.github.io/
 
 ## 社区论坛
 
+- hackthebox：https://www.hackthebox.com/
 - HackerOne：https://hackerone.com/hacktivity
 - 长亭  
 [博客 - CT Stack 安全社区 长亭](https://stack.chaitin.com/techblog/index)  
