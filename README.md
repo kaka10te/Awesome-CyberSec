@@ -37,10 +37,16 @@ OSCP 推荐靶场：https://space.bilibili.com/102541140
 https://github.com/sule01u
 
 - 颖奇：www.gem-love.com  ctf
+
 - l3m0n：www.cnblogs.com/iamstudy
-- Y4tacker：blog.csdn.net/solitudi
+
+- Y4tacker java安全相关
+blog.csdn.net/solitudi  
+https://github.com/Y4tacker/JavaSec  
+https://y4tacker.github.io/
+
 - 梅子酒：meizjm3i.github.io
-- 
+
 公众号：道哥的黑板报、谢公子学安全、代码审计、黑伞安全、不懂安全等等
 
 ## 社区论坛
