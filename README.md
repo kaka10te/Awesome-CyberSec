@@ -110,3 +110,8 @@ https://github.com/krahets/hello-algo/
 ## 其他未分类
 
 [vulhub/README.zh-cn.md at master · vulhub/vulhub](https://github.com/vulhub/vulhub/blob/master/README.zh-cn.md)
+
+## 计算机基础
+- 2015 CMU 15-213 CSAPP 深入理解计算机系统 课程视频  
+https://www.bilibili.com/video/BV1iW411d7hd/
+
