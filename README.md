@@ -89,6 +89,24 @@ https://github.com/krahets/hello-algo/
 
 [灵茶山艾府的个人空间-灵茶山艾府个人主页-哔哩哔哩视频](https://space.bilibili.com/206214)
 
+## JAVA安全
+
+https://github.com/Drun1baby/JavaSecurityLearning  
+https://github.com/HackJava/HackJava  
+
+## 云上安全
+
+https://wiki.teamssix.com/  
+https://cloudsec.huoxian.cn/  
+https://cloudsec.tencent.com/home/  
+https://github.com/teamssix/awesome-cloud-security  
+
+## 内网安全
+
+https://attack.mitre.org/  
+https://github.com/chriskaliX/AD-Pentest-Notes/
+
+
 ## 安全之路
 
 学习借鉴，选择确定，坚持努力。
